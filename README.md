@@ -33,7 +33,7 @@ In today's data-driven world, businesses rely on real-time market data to stay c
 
 
 
-### [4. **Exploratory Data Analysis in Pandas**](https://github.com/laugima/Python-Projects-Portfolio/blob/main/4.%20Data-Driven%20Decision%20Making:%20Exploratory%20Data%20Analysis%20(EDA)%20in%20Pandas.ipynb)
+### [**4. Data-Driven Decision Making: Exploratory Data Analysis (EDA) in Pandas**](https://github.com/laugima/Python-Projects-Portfolio/blob/main/4.%20Data-Driven%20Decision%20Making:%20Exploratory%20Data%20Analysis%20(EDA)%20in%20Pandas.ipynb)
 This project focuses on **Exploratory Data Analysis (EDA)** using **Pandas & Matplotlib**, uncovering key trends from a real-world dataset. EDA is a crucial step in **business analytics, finance, and operations** for identifying patterns and making data-driven decisions.  
 
 ## **Key Features & Process**  
