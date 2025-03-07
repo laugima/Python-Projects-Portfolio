@@ -10,7 +10,7 @@ This repository showcases a collection of **Python projects** focused on busines
 This project involves creating a Python tool to calculate the Body Mass Index (BMI) of an individual. The program takes the user's weight and height as input and computes the BMI using the standard formula (weight in kg / height in meters squared). The results are displayed along with a health classification based on the BMI value, following the categories of the World Health Organization (underweight, normal weight, overweight, obesity).
 
 
-### [**2. **Building an Automated File Sorter in File Explorer**](https://github.com/laugima/Python-Projects-Portfolio/blob/main/2.%20Building%20an%20Automated%20File%20Sorter%20in%20File%20Explorer.ipynb)
+### [**2. Building an Automated File Sorter in File Explorer**](https://github.com/laugima/Python-Projects-Portfolio/blob/main/2.%20Building%20an%20Automated%20File%20Sorter%20in%20File%20Explorer.ipynb)
 This project automates the organization of files in the system's file explorer. Using Python and its library, the program scans a specific folder for unordered files and moves them into predefined subfolders based on their type (e.g., images, text, xlsx). This project aims to simplify file management and improve efficiency in environments with large amounts of data.
 
 
